@@ -44,3 +44,14 @@ The system is built using Node.js and MySQL, with JWT-based authentication and r
 ## How to Run
 1. Clone the repository
 2. Install dependencies
+3. Configure `.env`
+4. Start server
+
+
+## Future Enhancements
+- Swagger API documentation
+- Admin dashboard
+- Advanced reporting
+
+## Author
+Gayatri Anil Prabhu
